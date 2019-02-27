@@ -75,7 +75,7 @@ func makeCountEndpoint(svc StringService) endpoint.Endpoint {
   }
 }
 
-
+func proxyingMiddleware()
 
 
 
